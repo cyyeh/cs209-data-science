@@ -1,6 +1,6 @@
 # CS209 Data Science
 
-This repo contains a series of data science courses from Harvard. What's special about these three courses is that the course contens is the most complete one I've ever seen. The first course(a.k.a `a`) and the second course(a.k.a `b`) together is the introduction to data science. If you have heard about [CS109](https://github.com/cyyeh/cs109-data-science) from Harvard before, the material is a lot similar with `a`; and `b` contains more recent and advanced techniques in deep learning. The last course from the series(a.k.a `c`) mainly talks about three things: 1. how to scale a model from a prototype(often in jupyter notebooks) to the cloud; 2. transfer learning; 3. visualization tools for investigating deep learning models.
+This repo contains a series of data science courses from Harvard. What's special about these three courses is that the course content is the most complete one I've ever seen. The first course(a.k.a `a`) and the second course(a.k.a `b`) together is the introduction to data science. If you have heard about [CS109](https://github.com/cyyeh/cs109-data-science) from Harvard before, the material is a lot similar with `a`; and `b` contains more recent and advanced techniques in deep learning. The last course from the series(a.k.a `c`) mainly talks about three things: 1. how to scale a model from a prototype(often in jupyter notebooks) to the cloud; 2. transfer learning; 3. visualization tools for investigating deep learning models.
 
 ## Courses Overview
 
