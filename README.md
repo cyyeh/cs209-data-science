@@ -20,13 +20,9 @@ The material will integrate the five key facets of an investigation using data:
 
 5. communication – summarizing results through visualization, stories, and interpretable summaries.
 
-(referenced from the [course website](https://harvard-iacs.github.io/2019-CS109A/pages/syllabus.html))
-
 ### `b`
 
 The course introduces advanced methods for data wrangling, data visualization, and deep neural networks, statistical modeling, and prediction. Topics include big data and database management,  multiple deep learning subjects such as CNNs, RNNs, autoencoders, and generative models as well as basic Bayesian methods, nonlinear statistical models and unsupervised learning.
-
-(referenced from the [course website]())
 
 ### `c`
 
