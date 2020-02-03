@@ -36,6 +36,6 @@ The course will be divided into three major topics:
 
 ## References
 
-- [course website of `a`](https://harvard-iacs.github.io/2019-CS109A/pages/syllabus.html)
-- [course website of `b`](https://harvard-iacs.github.io/2019-CS109B/pages/syllabus.html)
-- [course website of `c`]()
+- [course website of `a`](https://harvard-iacs.github.io/2019-CS109A/)
+- [course website of `b`](https://harvard-iacs.github.io/2019-CS109B/)
+- [course website of `c`](https://harvard-iacs.github.io/2020-AC295/)
