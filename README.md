@@ -34,6 +34,12 @@ The course will be divided into three major topics:
 
 3. In the third part we will be introducing a number of intuitive visualization tools for investigating properties and diagnosing issues of models. We will be demonstrating a number of visualization tools ranging from the well established (like saliency maps) to recent ones that have appeared in https://distill.pub.
 
+## Environment Setup
+
+- `pip install pipenv` (if `pipenv` is not installed)
+- `pipenv install` (install all dependencies)
+    - `pipenv --python [version_number]`: This repo uses python3.6.5, if your local machine doesn't support this version, you can run this command to change python version
+
 ## References
 
 - [course website of `a`](https://harvard-iacs.github.io/2019-CS109A/)
