@@ -13,6 +13,8 @@ matplotlib = "*"
 seaborn = "*"
 bs4 = "*"
 requests = "*"
+sklearn = "*"
+statsmodels = "*"
 
 [requires]
 python_version = "3.6"
