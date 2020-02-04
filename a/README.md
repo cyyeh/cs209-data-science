@@ -3,244 +3,166 @@
 **Week 1**
 
 Lectures
-- Lecture 1: What is Data Science?
-    - [slides](lectures/Lecture1_Introduction.pdf)
-    - [notebook](lectures/Lecture1_Notebook.ipynb)
+- [Lecture 1: What is Data Science?](lectures/lecture1)
 
 Lab
-- Lab 1: Intro to Python (numpy, graphing libraries, program structure, Jupyter Notebook
-    - [notebook](labs/cs109a_lab1_intro.ipynb)
+- [Lab 1: Intro to Python (numpy, graphing libraries, program structure, Jupyter Notebook](labs/lab1)
 
 **Week 2**
 
 Lectures
-- Lecture 2: Data, Stats, and Visualization]
-    - [slides](lectures/Lecture2_Data.pdf)
-    - [notebook](lectures/Lecture2_Notebook.ipynb)
-- Lecture 3: Pandas and Scraping
-    - [slides](lectures/Lecture3_Pandas_and_Scraping.pdf)
-    - [notebook](lectures/Lecture3_Notebook.ipynb)
+- [Lecture 2: Data, Stats, and Visualization](lectures/lecture2)
+- [Lecture 3: Pandas and Scraping](lectures/lecture3)
 
 Lab
-- Lab 2: Python: sklearn, matplotlib
-    - [notebook-a](labs/cs109a_lab2_more_pandas.ipynb)
-    - [notebook-b](labs/cs109a_lab2_web_scraping.ipynb)
+- [Lab 2: Python: sklearn, matplotlib](labs/lab2)
 
 Section
-- Section 1: Web Scraping
-    - [notebook](sections/cs109a_section_1.ipynb)
+- [Section 1: Web Scraping](sections/section1)
 
 **Week 3**
 
 Lectures
-- Lecture 4: Introduction to Regression and kNN Regression
-    - [slides](lectures/Lecture4_kNNRegression.pdf)
-- Lecture 5: Linear Regression, Bootstrap and Confidence Intervals
-    - [slides](lectures/Lecture5_LinearRegression.pdf)
+- [Lecture 4: Introduction to Regression and kNN Regression](lectures/lecture4)
+- [Lecture 5: Linear Regression, Bootstrap and Confidence Intervals](lectures/lecture5)
 
 Lab
-- Lab 3: Scikit-learn for Simple Linear Regression
-    - [noteobok-a](labs/cs109a_lab3_prelab.ipynb)
-    - [notebook-b](labs/cs109a_lab3_kNN_SLR_matplot.ipynb)
-    - [notebook-c](labs/cs109a_lab3_extended.ipynb)
+- [Lab 3: Scikit-learn for Simple Linear Regression](labs/lab3)
 
 Section
-- Section 2: kNN and Linear Regression
-    - [notebook](sections/cs109a_section_2.ipynb)
+- [Section 2: kNN and Linear Regression](sections/section2)
 
 Advanced Section
-- Advanced Section 1: Linear Algebra and Hypothesis Testing
-    - [slides](sections/Adv_Section1_Slides.pdf)
-
+- [Advanced Section 1: Linear Algebra and Hypothesis Testing](sections/a-sec1)
 
 **Week 4**
 
 Lectures
-- Lecture 6: Multi and Poly Regression
-    - [slides](lectures/Lecture6_MultiAndPolyReg.pdf)
-- Lecture 7: Model selection and Cross Validation
-    - [slides](lectures/Lecture7_ModeLSelectionRegularization.pdf)
+- [Lecture 6: Multi and Poly Regression](lectures/lecture6)
+- [Lecture 7: Model selection and Cross Validation](lectures/lecture7)
 
 Lab
-- Lab 4: Multiple Linear Regression and Cross Validation
-    - [slides](labs/lab04_data_splits.pdf)
-    - [notebook](labs/cs109a_lab4_regression.ipynb)
-    - [notebook-sol](labs/cs109a_lab4_regression_solutions.ipynb)
+- [Lab 4: Multiple Linear Regression and Cross Validation](labs/lab4)
 
 Section
-- Section 3: Multiple Linear Regression and Polynomial Regression
-    - [notebook](sections/cs109a_section_3.ipynb)
+- [Section 3: Multiple Linear Regression and Polynomial Regression](sections/section3)
 
 Advanced Section
-- Advanced Section 2: Regularization Methods and Their Justifications
-    - [slides](sections/A-sec2_Slides.pdf)
-    - [reference](sections/A-sec2_Regularization.pdf)
-    - [notebook](sections/A-sec2_demo.ipynb)
+- [Advanced Section 2: Regularization Methods and Their Justifications](sections/a-sec2)
 
 **Week 5**
 
 Lectures
-- Lecture 8: Regularization and EDA
-    - [slides-a](lectures/Lecture8a_Regularization.pdf)
-    - [slides-b](lectures/Lecture8b_EDA.pdf)
-- Lecture 9: Visualization for Communication
-    - [slides-a](lectures/Lecture9a_Visualization.pdf)
-    - [slides-b](lectures/Lecture9b_Visualization.pdf)
+- [Lecture 8: Regularization and EDA](lectures/lecture8)
+- [Lecture 9: Visualization for Communication](lectures/lecture9)
 
 Section
-- Section 4: Regularization and Model Selection
-    - [notebook](sections/cs109a_section_4.ipynb)
+- [Section 4: Regularization and Model Selection](sections/section4)
 
 Lab
-- Lab 5: Matplotlib & Seaborn
-    - [notebook](labs/cs109a_lab5_EDA_plotting.ipynb)
-    - [notebook-sol](labs/cs109a_lab5_EDA_plotting_solutions.ipynb)
+- [Lab 5: Matplotlib & Seaborn](labs/lab5)
 
 **Week 6**
 
 Lectures
-- Lecture 10: kNN Classification & Logistic Regression I
-    - [slides](lectures/Lecture10_LogisticRegression.pdf)
-    - [notebook](lectures/Lecture10.ipynb)
-- Lecture 11: Logistic Regression II
-    - [slides](lectures/Lecture11_LogReg2.pdf)
-    - [notebook](lectures/Lecture11.ipynb)
+- [Lecture 10: kNN Classification & Logistic Regression I](lectures/lecture10)
+- [Lecture 11: Logistic Regression II](lectures/lecture11)
 
 Lab
-- Lab 6: Logistic Regression
-    - [notebook](labs/cs109a_lab6_logistic_regression.ipynb)
-    - [notebook-sol](labs/cs109a_lab6_logistic_regression_solutions.ipynb)
+- [Lab 6: Logistic Regression](labs/lab6)
 
 Advanced Section
-- Advanced Section 3:Generalized Linear Models
-    - [slides](sections/Adv_Section3_GLMs.pdf)
-    - [reference](sections/a-sec3-GLM_notes.pdf)
-    - [notebook](sections/a_sec3_GLM.ipynb)
+- [Advanced Section 3:Generalized Linear Models](sections/a-sec3)
 
 **Week 7**
 
 Lectures
-- Lecture 12: Dealing with Missing Data, Imputation
-    - [slides](lectures/Lecture12_kNNclassAndImputation.pdf)
-    - [notebook](lectures/Lecture12.ipynb)
+- [Lecture 12: Dealing with Missing Data, Imputation](lectures/lecture12)
 
 Section
-- Section 5: Logistic Regression, Multiple Logistic Regression, and KNN-classification
-    - [notebook](sections/cs109a_section_5.ipynb)
+- [Section 5: Logistic Regression, Multiple Logistic Regression, and KNN-classification](sections/section5)
 
 Lab
-- Lab 7: KNN Classification & Imputation
-    - [notebook](labs/cs109a_lab7_knnclassification_imputation.ipynb)
+- [Lab 7: KNN Classification & Imputation](labs/lab7)
 
 **Week 8**
 
 Lectures
 - Lecture 13: EthiCS(no slides)
-- Lecture 14: PCA
-    - [slides](lectures/Lecture14_PCA.pdf)
-    - [notebook](lectures/Lecture14.ipynb)
+- [Lecture 14: PCA](lectures/lecture14)
 
 Lab
-- Lab 8: PCA
-    - [notebook](labs/cs109a_lab8_PCA.ipynb)
+- [Lab 8: PCA](labs/lab8)
 
 Section
-- Section 6: PCA and Logistic Regression
-    - [notebook](sections/cs109a_section_6.ipynb)
+- [Section 6: PCA and Logistic Regression](sections/section6)
 
 Advanced Section
-- Advanced Sections 4: PCA
-    - [slides](sections/Adv_Section4_Slides_PCA.pdf)
-    - [reference](sections/a-sec4-PCA.pdf)
+- [Advanced Sections 4: PCA](sections/a-sec4)
 
 **Week 9**
 
 Lectures
-- Lecture 15: Classification Trees
-    - [slides](lectures/Lecture15_Decision_Trees.pdf)
-- Lecture 16: Bagging, & Random Forest
-    - [slides](lectures/Lecture16_BaggingRF.pdf)
+- [Lecture 15: Classification Trees](lectures/lecture15)
+- [Lecture 16: Bagging, & Random Forest](lectures/lecture16)
 
 Lab
-- Lab 9: Trees and Random Forests
-    - [notebook](labs/cs109a_Lab9_Decision_Trees.ipynb)
+- [Lab 9: Trees and Random Forests](labs/lab9)
 
 Section
-- Section 7: Bagging and Random Forest
-    - [notebook](sections/cs109a_section_7.ipynb)
+- [Section 7: Bagging and Random Forest](sections/section7)
 
 **Week 10**
 
 Lectures
-- Lecture 17: Boosting Methods
-    - [slides](lectures/Lecture17_Boosting.pdf)
-- Lecture 18: Neural Networks 1 – Perceptron and MLP
-    - [slides](lectures/Lecture18_PerceptronBackProp.pdf)
+- [Lecture 17: Boosting Methods](lectures/lecture17)
+- [Lecture 18: Neural Networks 1 – Perceptron and MLP](lectures/lecture18)
 
 Lab
-- Lab 10: Boosting
-    - [slides](labs/lab10_adaboost.pdf)
-    - [notebook](labs/cs109a_Lab10_Boosting.ipynb)
+- [Lab 10: Boosting](labs/lab10)
 
 Section
-- Section 8: Boosting
-    - [notebook](sections/cs109a_section_8.ipynb)
+- [Section 8: Boosting](sections/section8)
 
 **Week 11**
 
 Lectures
-- Lecture 19: NN 2: Anatomy of NN, design choices
-    - [slides](lectures/Lecture19_NN_Design.pdf)
-- Lecture 20: NN 3. Back Propagation
-    - [slides](lectures/Lecture20_BackProp.pdf)
+- [Lecture 19: NN 2: Anatomy of NN, design choices](lectures/lecture19)
+- [Lecture 20: NN 3. Back Propagation](lectures/lecture20)
 
 Lab
-- Lab 11: Intro to NN
-    - [notebook](labs/lab11_MLP_solutions_part1.ipynb)
+- [Lab 11: Intro to NN](labs/lab11)
 
 Section
-- Section 9: Feed forward neural networks
-    - [notebook](sections/cs109a_section_9.ipynb)
+- [Section 9: Feed forward neural networks](sections/section9)
 
 Advanced Section
-- Advanced Sections 5: Decision Trees & Ensemble Methods
-    - [slides](sections/Adv_Section5_Slides_Ensembles.pdf)
+- [Advanced Sections 5: Decision Trees & Ensemble Methods](sections/a-sec5)
 
 **Week 12**
 
 Lectures
-- Lecture 21: Neural Networks 4. Regularization methods
-    - [slides](lectures/Lecture21_OptimizersAndRegularization.pdf)
-- Lecture 22: Visualization for Model Interpretation
-    - [slides](lectures/Lecture22_InterpretingPredictionModels.pdf)
+- [Lecture 21: Neural Networks 4. Regularization methods](lectures/lecture21)
+- [Lecture 22: Visualization for Model Interpretation](lectures/lecture22)
 
 Lab
-- Lab 12: Regularization with NN
-    - [notebook](labs/lab12_NN.ipynb)
-    - [notebook-sol](labs/lab12_NN_solutions.ipynb)
+- [Lab 12: Regularization with NN](labs/lab12)
 
 Section
-- Section 10: Feed forward neural networks, Regularization, SGD Solver
-    - [notebook](sections/cs109a_section_10.ipynb)
+- [Section 10: Feed forward neural networks, Regularization, SGD Solver](sections/section10)
 
 Advanced Section
-- Advanced Sections 6: Solvers
-    - [slides](sections/Adv_Section6_Slides_ConvergingNNs.pdf)
+- [Advanced Sections 6: Solvers](sections/a-sec6)
 
 **Week 13**
 
 Lectures
-- Lecture 23: Experimental Design & Testing I
-    - [slides](lectures/Lecture23_ABTesting1.pdf)
+- [Lecture 23: Experimental Design & Testing I](lectures/lecture23)
 
 **Week 14**
 
 Lectures
-- Lecture 24: Experimental Design & Testing II
-    - [slides](lectures/Lecture24_ABTesting2.pdf)
-- Lecture 25: Review
-    - [slides](lectures/Lecture25_Review.pdf)
+- [Lecture 24: Experimental Design & Testing II and Review](lectures/lecture24)
 
 Lab
-- Lab 13: Web Dev for Final Projects
-    - [notebook](labs/cs109a_Lab13_Websites.ipynb)
+- [Lab 13: Web Dev for Final Projects](labs/lab13)

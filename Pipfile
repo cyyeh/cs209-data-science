@@ -10,6 +10,7 @@ jupyterlab = "*"
 numpy = "*"
 pandas = "*"
 matplotlib = "*"
+seaborn = "*"
 
 [requires]
 python_version = "3.6"
