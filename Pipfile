@@ -15,6 +15,7 @@ bs4 = "*"
 requests = "*"
 sklearn = "*"
 statsmodels = "*"
+xlrd = "*"
 
 [requires]
 python_version = "3.6"
